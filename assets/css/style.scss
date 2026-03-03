@@ -6,3 +6,12 @@
 .page-header {
   background-image: linear-gradient(120deg, #8A3D39, #43556A);
 }
+
+/* Überschriften Farbe ändern */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #43556A;
