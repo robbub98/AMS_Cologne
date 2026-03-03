@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AMS Cologne
+title: Cologne AMS
 ---
 
 # Willkommen bei CologneAMS! 🔬
