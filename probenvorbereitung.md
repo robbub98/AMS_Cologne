@@ -72,7 +72,7 @@ bis zu **40 Proben** gleichzeitig.
 
 ---
 
-## Warum so aufwändig? 🤔
+## Warum so aufwendig? 🤔
 
 > Das AMS sucht nach Atomen, die **extrem selten** 
 > sind – z. B. ein ¹⁰Be-Atom unter einer 
