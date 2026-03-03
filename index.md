@@ -22,13 +22,11 @@ darunter:
 ---
 
 ## 🗺️ Stationen der Tour
-
-1. [Probenvorbereitung](station1)
-2. [Ionenquelle (SO-110B)](station2)
-3. [Injektor & Niederenergie-Seite](station3)
-4. [6 MV Tandem-Beschleuniger](station4)
-5. [Hochenergie-Seite & Analysatoren](station5)
-6. [Detektor & Messung](station6)
+| Nr. | Station | Beschreibung |
+|-----|---------|-------------|
+| 1 | [Erzeugung des Ionenstrahls](ionenstrahl) | Wie entsteht der Ionenstrahl? |
+| 2 | [Sputtering](sputtering) | Was passiert an der Probe? |
+| 3 | [Der Tandem-Beschleuniger](beschleuniger) | Vom Molekül zum einzelnen Atom |
 
 ---
 
