@@ -25,9 +25,9 @@ darunter:
 
 | Nr. | Station | Beschreibung |
 |-----|---------|-------------|
-| 1 | [Erzeugung des Ionenstrahls](ionenstrahl) | Wie entsteht der Ionenstrahl? |
-| 2 | [Sputtering](sputtering) | Was passiert an der Probe? |
-| 3 | [Der Tandem-Beschleuniger](beschleuniger) | Vom Molekül zum einzelnen Atom |
+| 1 | [Erzeugung des Ionenstrahls](02_ionenstrahl) | Wie entsteht der Ionenstrahl? |
+| 2 | [Sputtering](03_sputtering) | Was passiert an der Probe? |
+| 3 | [Der Tandem-Beschleuniger](04_beschleuniger) | Vom Molekül zum einzelnen Atom |
 
 ---
 
