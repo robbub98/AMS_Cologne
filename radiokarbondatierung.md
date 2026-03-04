@@ -30,8 +30,12 @@ $$^{14}N + n \rightarrow {}^{14}C + p$$
 | Phase | Was passiert? |
 |-------|--------------|
 | **Lebender Organismus** | Solange z. B. ein Baum lebt, absorbiert er ¹²C und ¹⁴C in einem bestimmten Verhältnis aus der Luft. In jedem Jahresring steckt also ein charakteristisches Kohlenstoff-Verhältnis. |
-| **Toter Organismus** | Wird ein Baum gefällt, wird kein weiterer Kohlenstoff absorbiert. Das ¹⁴C zerfällt weiter, während ¹²C stabil bleibt – das Verhältnis verschiebt sich messbar. |
+| **Toter Organismus** | Wird ein Baum gefällt, wird kein weiterer Kohlenstoff absorbiert. Das ¹⁴C zerfällt weiter. |
 
+![Zerfallskurve von ¹⁴C im Vergleich zu ¹²C über die Zeit](assets/images/c14_zerfall.png)
+
+*Abbildung: Während ¹²C (blau) stabil bleibt, nimmt ¹⁴C (pink) nach dem Tod
+des Organismus exponentiell ab. Über das Verhältnis lässt sich das Alter bestimmen.*
 ---
 
 ## Die Kohlenstoff-Isotope im Überblick
