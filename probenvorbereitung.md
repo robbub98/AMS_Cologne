@@ -35,25 +35,6 @@ gesuchtem Isotop unterscheidet sich die Aufbereitung erheblich.
   </iframe>
 </div>
 
-<details>
-<summary>📄 Poster: Vom Probenmaterial zur Ionenquelle (klicke zum Öffnen)</summary>
-
-<iframe 
-  src="assets/docs/probenvorbereitung_poster.pdf" 
-  width="100%" 
-  height="600px" 
-  style="border: 2px solid #ccc; border-radius: 8px;">
-</iframe>
-
-<p>
-  PDF wird nicht angezeigt? 
-  <a href="assets/docs/probenvorbereitung_poster.pdf" target="_blank">
-    ⬇️ Hier herunterladen
-  </a>
-</p>
-
-</details>
-
 ### 1. Chemische Aufbereitung 🧪
 
 | Material | Aufbereitung |
