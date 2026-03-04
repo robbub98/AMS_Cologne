@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Der Tandem-Beschleuniger
+title: Tandem-Beschleuniger
 ---
 
 # Tandem-Beschleuniger ⚡
