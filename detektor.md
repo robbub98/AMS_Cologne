@@ -132,4 +132,5 @@ bevor es auf dem Bildschirm landet:
 
 ---
 
-> ⏮️ Zurück zur [Startseite](index) · ⏮️ Zurück zur [Ablenkung](ablenkung)
+> ⏮️ Zurück zur [Startseite](index)
+> ⏮️ Zurück zur [Ablenkung](ablenkung)
