@@ -3,7 +3,7 @@ layout: default
 title: ALIS
 ---
 
-# ALIS – Anion Laser Isobar Separator 🔬(index)
+# ALIS – Anion Laser Isobar Separator 🔬
 
 ## Das Isobar-Problem
 
