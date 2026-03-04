@@ -103,25 +103,21 @@ welche ALIS benötigen:
 
 ---
 
-<details>
-<summary>📄 Poster: ALIS (klicke zum Öffnen)</summary>
-
-<iframe 
-  src="assets/documents/poster_Markus.pdf" 
-  width="100%" 
-  height="600px" 
-  style="border: 2px solid #ccc; border-radius: 8px;">
-</iframe>
-
-<p>
-  PDF wird nicht angezeigt? 
-  <a href="assets/documents/poster_Markus.pdf" target="_blank">
-    ⬇️ Hier herunterladen
-  </a>
-</p>
-
-</details>
-
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; margin: 1em 0;">
+  <p><strong>📄 Poster: ALIS – Anion Laser Isobar Separator</strong></p>
+  <iframe 
+    src="assets/documents/poster_Markus.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border: none; border-radius: 4px;">
+  </iframe>
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
+    PDF wird nicht angezeigt? 
+    <a href="assets/documents/poster_Markus.pdf" target="_blank">
+      ⬇️ Hier herunterladen
+    </a>
+  </p>
+</div>
 ---
 
 > ⏮️ Zurück zur [Erzeugung des Ionenstrahls](ionenstrahl)
