@@ -131,5 +131,4 @@ bevor es auf dem Bildschirm landet:
 > und am Ende über Lautsprecher sprichst! 🔊
 
 ---
-
-> ⏮️ Zurück zur [Startseite](index)
+> 🏠 Zurück zur [Startseite](index)
