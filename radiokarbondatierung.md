@@ -74,4 +74,4 @@ viel häufigeren ¹²C trennen und so **präzise Alter** bestimmen.
 
 ---
 
-[← Zurück zur Übersicht](radiokarbondatierung)
+[← Zurück zur Übersicht](index)
