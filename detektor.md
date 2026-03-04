@@ -4,8 +4,6 @@ title: Detektor & Datenerfassung
 ---
 
 # Detektor & Datenerfassung 🔬
-
-
 <<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; margin: 1em 0;">
   <p><strong>📄 Poster: Detektor & Datenerfassung</strong></p>
   <iframe 
