@@ -56,6 +56,7 @@ dann magnetisch getrennt werden.
 ## Der Aufbau
 
 Der Ionenstrahl durchläuft nach der Ionenquelle folgende Stationen:
+
 | Komponente | Funktion |
 |-----------|----------|
 | **90°-Magnet** | Massenselektion – trennt Ionen nach Masse |
