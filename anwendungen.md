@@ -3,7 +3,7 @@ layout: default
 title: Anwendungsgebiete
 ---
 
-# Anwendungsgebiete des AMS 🌍(index)
+# Anwendungsgebiete des AMS 🌍
 
 Das CologneAMS wird in vielen verschiedenen 
 Fachbereichen eingesetzt – von der Geologie 
