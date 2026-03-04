@@ -5,84 +5,76 @@ title: Probenvorbereitung
 
 # Probenvorbereitung 🧪
 
-## Vom Gestein in die Maschine
+## Vom Probenmaterial zur Ionenquelle
 
-Bevor eine Probe im AMS gemessen werden kann, muss 
-sie aufwändig vorbereitet werden. Das passiert im 
-**Chemielabor** – oft dauert dieser Prozess 
-**mehrere Wochen**.
+Bevor eine Probe im AMS gemessen werden kann, muss sie aufwändig 
+vorbereitet werden – oft dauert das **mehrere Wochen**. Je nach 
+gesuchtem Isotop unterscheidet sich die Aufbereitung erheblich.
 
----
+| Gesuchtes Isotop | Ausgangsmaterial | Endprodukt |
+|-----------------|-----------------|------------|
+| ¹⁰Be | Gestein (gemahlen & gesiebt) | Berylliumoxid (BeO) |
+| ²⁶Al | Gestein | Aluminiumoxid (Al₂O₃) |
+| ¹⁴C | Organisches Material | Graphit oder CO₂ |
 
-## Schritt für Schritt
-
-### 1. Gestein zerkleinern 🪨
-Das Gestein wird **gemahlen und gesiebt**, bis nur 
-noch feine Körner übrig sind – etwa so groß wie 
-Sandkörner.
-
-### 2. Chemische Aufbereitung 🧪
-Im Labor wird das gewünschte Element aus dem 
-Gesteinspulver **herausgelöst**. Dafür werden 
-verschiedene Säuren und Chemikalien verwendet.
-
-> 💡 Stell dir vor, du willst ein einzelnes 
-> Puzzleteil aus einem riesigen Puzzle herausfischen – 
-> genau das passiert hier auf atomarer Ebene!
-
-Am Ende bleibt ein winziges bisschen **Pulver** 
-übrig – das Zielmaterial. Zum Beispiel:
-
-| Gesuchtes Isotop | Endprodukt |
-|-----------------|------------|
-| ¹⁰Be | Berylliumoxid (BeO) |
-| ²⁶Al | Aluminiumoxid (Al₂O₃) |
-| ¹⁴C | Graphit (reiner Kohlenstoff) |
-
-### 3. Abwiegen ⚖️
-Von diesem Pulver wird nur etwa **1 mg** benötigt – 
-das ist weniger als ein **Salzkorn** wiegt!
-
-### 4. Mischen 🥣
-Das Probenpulver wird mit einem **Metallpulver** 
-(z. B. Niob oder Kupfer) vermischt. Das hilft 
-später, die Probe besser leitfähig zu machen und 
-den Ionenstrahl stabil zu halten.
-
-### 5. In die Kathode pressen 🔧
-Das Gemisch wird in eine kleine **Kupfer-Kathode** 
-gepresst – das ist ein winziger Metallbecher von 
-nur wenigen Millimetern Durchmesser.
-
-Dafür wird ein **Graphitstift** verwendet, um das 
-Pulver **fest in die Kathode zu drücken**.
-
-> 💡 Die Kathode ist etwa so groß wie die 
-> **Spitze eines Kugelschreibers** – und darin 
-> steckt die gesamte Probe!
-
-### 6. Ab ins AMS! 🎯
-Die fertige Kathode wird in das **Kathoden-Rad** 
-der Ionenquelle eingesetzt. Dort ist Platz für 
-bis zu **40 Proben** gleichzeitig.
+> 💡 Das AMS sucht nach Atomen, die **extrem selten** sind – 
+> z. B. ein ¹⁰Be-Atom unter einer **Billion** anderer Atome. 
+> Die Probe muss daher **absolut rein** sein.
 
 ---
 
-## Zusammenfassung
+## Beispiel: ¹⁴C-Probenvorbereitung
+
+<details>
+<summary>📄 Poster: Vom Probenmaterial zur Ionenquelle (klicke zum Öffnen)</summary>
+
+<iframe 
+  src="assets/docs/probenvorbereitung_poster.pdf" 
+  width="100%" 
+  height="600px" 
+  style="border: 2px solid #ccc; border-radius: 8px;">
+</iframe>
+
+<p>
+  PDF wird nicht angezeigt? 
+  <a href="assets/docs/probenvorbereitung_poster.pdf" target="_blank">
+    ⬇️ Hier herunterladen
+  </a>
+</p>
+
+</details>
+
+### 1. Chemische Aufbereitung 🧪
+
+| Material | Aufbereitung |
+|----------|-------------|
+| 🌍 **Boden** | Säure → Lauge → Säure → H₂O-Spülung (pH-neutral) |
+| 🦴 **Knochen** | Zerkleinern (2–3 mm) → Ultraschallbad → HCl (60 °C, 12 h) → Kollagen wird herausgefiltert |
+| 🪵 **Holz** | Behandlung mit Lösungsmitteln |
+
+### 2. Elemental Analyzer 🔥
+
+Die gereinigte Probe wird mit O₂ **verbrannt**. Die Gase werden 
+getrennt – übrig bleibt **CO₂**.
+
+### 3. Probenform herstellen
+
+Es gibt **zwei Wege**:
+
+| Weg | Verfahren | Ergebnis |
+|-----|-----------|----------|
+| 💨 **Gas Injection** | CO₂ wird über Zeolith-Falle gereinigt und direkt injiziert | Gasförmige Probe |
+| 🧊 **Graphitisierung** | CO₂ + 2H₂ → C + 2H₂O (mit Fe bei 480 °C) | Feste Probe (Graphit) |
+
+### 4. Ionenquelle 🎯
+
+Die Probe gelangt in die **Ionenquelle**. Dort schlagen 
+**Cäsium-Ionen** (130 °C) Atome aus der Probe heraus 
+(**Sputtering**). Diese werden als negativer **Ionenstrahl** 
+extrahiert.
 
 ---
 
-## Warum so aufwendig? 🤔
-
-> Das AMS sucht nach Atomen, die **extrem selten** 
-> sind – z. B. ein ¹⁰Be-Atom unter einer 
-> **Billion** anderer Atome. Damit die Messung 
-> funktioniert, muss die Probe **absolut sauber** 
-> sein. Schon kleinste Verunreinigungen würden 
-> das Ergebnis verfälschen!
-
----
-
-> ⏭️ Weiter zu [Tandem-Beschleuniger](beschleuniger)
+> ⏭️ Weiter zur [Erzeugung des Ionenstrahls](ionenstrahl)
 >
 > 🏠 Zurück zur [Startseite](index)
