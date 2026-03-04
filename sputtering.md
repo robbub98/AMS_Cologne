@@ -64,6 +64,6 @@ Das hat einen cleveren Nebeneffekt:
 
 ---
 
-> ⏮️ Zurück zu [Erzeugung des Ionenstrahls](ionenstrahl)
->
+> ⏭️ Weiter zu [Sputtering](beschleuniger)
+
 > 🏠 Zurück zur [Startseite](index)
