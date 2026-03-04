@@ -82,3 +82,54 @@ Isotope messen.
 
 Die Lösung: **Bouncing** – der Magnet wird blitzschnell
 zwischen drei Einstellungen hin- und hergeschaltet:
+
+So entsteht ein **gepulster Strahl**, der abwechselnd
+¹²C, ¹³C und ¹⁴C zum Beschleuniger schickt.
+
+> 💡 Wie ein DJ, der schnell zwischen drei Kanälen
+> hin- und herzappt – so schnell, dass er keinen verpasst! 🎛️
+
+---
+
+## Nach dem Beschleuniger: Die Feinarbeit 🔍
+
+Nach dem Beschleuniger sind die Ionen nun **positiv geladen**
+(z. B. C⁴⁺) und viel schneller. Jetzt kommt die Feinarbeit:
+
+### Nochmal ein 90°-Magnet
+
+Trennt die drei Kohlenstoff-Isotope räumlich auf:
+- **¹²C⁴⁺** → stärkste Ablenkung (am leichtesten)
+- **¹³C⁴⁺** → mittlere Ablenkung
+- **¹⁴C⁴⁺** → geringste Ablenkung (am schwersten)
+
+### 2× 30° Elektrostatische Analysierer
+
+Sortieren nochmals nach Energie – als **zusätzlicher Filter**
+für noch bessere Trennung.
+
+---
+
+## Faraday Cups: Strom messen ⚡
+
+Die häufigen Isotope **¹²C** und **¹³C** werden in sogenannten
+**Faraday Cups** gemessen. Das sind im Grunde kleine
+**Metallbecher**, die den Ionenstrom auffangen:
+
+1. Die positiven Ionen treffen auf die Metallplatte
+2. Es fließt ein messbarer **elektrischer Strom**
+3. Dieser Strom wird mit einem Amperemeter gemessen
+
+> ⚠️ Eine Besonderheit: Wenn Ionen auftreffen, schlagen sie
+> Elektronen aus dem Metall. Damit die Messung stimmt, werden
+> diese durch eine **Spannung von −600 V** zurückgehalten.
+
+### Und was ist mit ¹⁴C? 🧐
+
+¹⁴C ist so selten, dass es als Strom **nicht messbar** wäre.
+Deshalb wird es weiter zum [Detektor](detektor) geschickt –
+dort werden die Atome **einzeln gezählt**!
+
+---
+
+> ⏮️ Zurück zur [Startseite](index) · ➡️ Weiter zum [Detektor](detektor)
