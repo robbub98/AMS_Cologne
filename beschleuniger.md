@@ -3,7 +3,7 @@ layout: default
 title: Der Tandem-Beschleuniger
 ---
 
-# Der Tandem-Beschleuniger ⚡
+# Tandem-Beschleuniger ⚡
 
 ## Das Herzstück des AMS
 
