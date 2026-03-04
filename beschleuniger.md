@@ -65,5 +65,6 @@ Die gleiche Spannung wird **zweimal** genutzt:
 2. Zum **Abstoßen** der positiven Atome
 
 ---
+> ⏭️ Weiter zu [Ablenkung durch Magnetfelder](ablenkung)
 
 > 🏠 Zurück zur [Startseite](index)
