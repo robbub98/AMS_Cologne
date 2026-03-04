@@ -36,6 +36,7 @@ $$^{14}N + n \rightarrow {}^{14}C + p$$
 
 *Abbildung: Während ¹²C (blau) stabil bleibt, nimmt ¹⁴C (pink) nach dem Tod
 des Organismus exponentiell ab. Über das Verhältnis lässt sich das Alter bestimmen.*
+
 ---
 
 ## Die Kohlenstoff-Isotope im Überblick
