@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: AMS Virtual Tour
 description: Interaktive Tour durch das Beschleuniger-Massenspektrometer
+baseurl: /AMS_Cologne
