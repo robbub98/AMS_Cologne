@@ -34,6 +34,17 @@ elektrische Spannung **auf die Probe beschleunigt**.
 
 ---
 
+## Besonderheit am CologneAMS: ALIS 🔬
+
+Das CologneAMS verfügt über eine Erweiterung 
+der Ionenstrahlführung: den **ALIS – Anion Laser Isobar Separator**. 
+Er trennt störende Isobare bereits **vor** dem Beschleuniger mit 
+Laser und Gasreaktionen.
+
+> 🔗 Mehr dazu: [ALIS – Anion Laser Isobar Separator](alis)
+
+---
+
 ## Was passiert dann?
 
 Der Cäsium-Strahl trifft auf die Probe – was dort 
