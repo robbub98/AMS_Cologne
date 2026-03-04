@@ -150,4 +150,6 @@ dort werden die Atome **einzeln gezählt**!
 
 ---
 
-> ⏮️ Zurück zur [Startseite](index) · ➡️ Weiter zum [Detektor](detektor)
+> 🏠 Zurück zur [Startseite](index)
+>
+> > ➡️ Weiter zum [Detektor](detektor)
