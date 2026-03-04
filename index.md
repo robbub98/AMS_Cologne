@@ -32,7 +32,7 @@ Die wichtigsten gemessenen Nuklide:
 | 2 | [Erzeugung des Ionenstrahls](ionenstrahl) | Wie entsteht der Ionenstrahl? |
 | 2a | [ALIS](alis) | Isobar-Trennung mit Laser & Gas |
 | 3 | [Sputtering](sputtering) | Was passiert an der Probe? |
-| 4 | [Der Tandem-Beschleuniger](beschleuniger) | Vom Molekül zum einzelnen Atom |
+| 4 | [Tandem-Beschleuniger](beschleuniger) | Vom Molekül zum einzelnen Atom |
 | 5 | [Ablenkung durch Magnetfelder](ablenkung) | Wie Magnete die Isotope sortieren |
 | 6 | [Detektor & Datenerfassung](detektor) | Das einzelne Atom nachweisen |
 | 7 | [Radiokarbondatierung](radiokarbondatierung) | Altersbestimmung mit ¹⁴C |
