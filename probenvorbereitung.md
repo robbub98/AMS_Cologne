@@ -28,7 +28,7 @@ gesuchtem Isotop unterscheidet sich die Aufbereitung erheblich.
 <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; margin: 1em 0;">
   <p><strong>📄 Poster: Vom Probenmaterial zur Ionenquelle</strong></p>
   <iframe 
-    src="assets/documents/Sample preparation and Ion source_german.pdf" 
+    src="assets/documents/Sample preparation and Ion source_german.pdf#zoom=50" 
     width="100%" 
     height="600px" 
     style="border: none;">
