@@ -30,14 +30,14 @@ title: Ablenkung durch Magnetfelder
 <div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; margin: 1em 0;">
   <p><strong>📄 Poster: Hochenergiemassenspektrometer</strong></p>
   <iframe 
-    src="assets/documents/poster_HE_gereon.pdf#zoom=50" 
+    src="assets/documents/poster HE gereon.pdf#zoom=50" 
     width="100%" 
     height="600px" 
     style="border: none; border-radius: 4px;">
   </iframe>
   <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
     PDF wird nicht angezeigt? 
-    <a href="assets/documents/poster_HE_gereon.pdf" target="_blank">
+    <a href="assets/documents/poster HE gereon.pdf" target="_blank">
       ⬇️ Hier herunterladen
     </a>
   </p>
