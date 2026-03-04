@@ -21,6 +21,7 @@ Die wichtigsten gemessenen Nuklide:
 | **³⁶Cl** | 0,30 Mio. Jahre | Grundwasserdatierung |
 | **⁴¹Ca** | 99.400 Jahre | Geochemie |
 | **¹⁴C** | 5.730 Jahre | [Radiokarbon-Datierung](radiokarbondatierung) |
+
 ---
 
 ## 🗺️ Stationen der Tour
