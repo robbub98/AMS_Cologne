@@ -66,4 +66,4 @@ Die gleiche Spannung wird **zweimal** genutzt:
 
 ---
 
-> ⏮️ Zurück zur [Startseite](index)
+> 🏠 Zurück zur [Startseite](index)
