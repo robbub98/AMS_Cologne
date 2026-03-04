@@ -64,6 +64,6 @@ Das hat einen cleveren Nebeneffekt:
 
 ---
 
-> ⏭️ Weiter zu [Sputtering](beschleuniger)
+> ⏭️ Weiter zu [Tandem-Beschleuniger](beschleuniger)
 
 > 🏠 Zurück zur [Startseite](index)
