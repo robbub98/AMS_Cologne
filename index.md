@@ -30,7 +30,7 @@ Die wichtigsten gemessenen Nuklide:
 |-----|---------|-------------|
 | 1 | [Probenvorbereitung](probenvorbereitung) | Vom Gestein in die Maschine |
 | 2 | [Erzeugung des Ionenstrahls](ionenstrahl) | Wie entsteht der Ionenstrahl? |
-| 2b | [ALIS](alis) | Isobar-Trennung mit Laser & Gas |
+| 2a | [ALIS](alis) | Isobar-Trennung mit Laser & Gas |
 | 3 | [Sputtering](sputtering) | Was passiert an der Probe? |
 | 4 | [Der Tandem-Beschleuniger](beschleuniger) | Vom Molekül zum einzelnen Atom |
 | 5 | [Radiokarbondatierung](radiokarbondatierung) | Altersbestimmung mit ¹⁴C |
