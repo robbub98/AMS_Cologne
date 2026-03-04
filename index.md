@@ -32,6 +32,7 @@ Die wichtigsten gemessenen Nuklide:
 | 2 | [Erzeugung des Ionenstrahls](ionenstrahl) | Wie entsteht der Ionenstrahl? |
 | 3 | [Sputtering](sputtering) | Was passiert an der Probe? |
 | 4 | [Der Tandem-Beschleuniger](beschleuniger) | Vom Molekül zum einzelnen Atom |
+| 5 | [Radiokarbondatierung](radiokarbondatierung) | Altersbestimmung mit ¹⁴C |
 
 ---
 
