@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+<body>
+  <header class="page-header" role="banner">
+    <a href="{{ '/' | relative_url }}" style="color: inherit; text-decoration: none;" title="Zurück zur Startseite">
+      <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+    </a>
+  </header>
+
+  <main id="content" class="main-content" role="main">
+    {{ content }}
+
+    <footer class="site-footer">
+      <span class="site-footer-credits">
+        <a href="{{ '/' | relative_url }}">🏠 Startseite</a>
+      </span>
+    </footer>
+  </main>
+</body>
+</html>
