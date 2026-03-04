@@ -64,9 +64,6 @@ Die gleiche Spannung wird **zweimal** genutzt:
 1. Zum **Anziehen** der negativen Ionen
 2. Zum **Abstoßen** der positiven Atome
 
-Wie bei einem Tandem-Fahrrad – **zwei Stufen 
-arbeiten zusammen!** 🚲
-
 ---
 
 > ⏮️ Zurück zur [Startseite](index)
