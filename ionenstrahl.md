@@ -52,6 +52,6 @@ passiert, erfährst du im nächsten Abschnitt!
 
 ---
 
-> ⏭️ Weiter zu [Was passiert an der Probe?](sputtering)
+> ⏭️ Weiter zu [Sputtering](sputtering)
 >
 > ⏮️ Zurück zur [Startseite](index)
