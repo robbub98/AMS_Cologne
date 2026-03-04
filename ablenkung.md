@@ -3,7 +3,7 @@ layout: default
 title: Ablenkung durch Magnetfelder
 ---
 
-# Ablenkung durch Magnetfelder 🧲
+# Ablenkung durch Magnetfelder 🧲(index)
 
 ## Niederenergiemassenspektrometer
 
