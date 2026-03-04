@@ -3,7 +3,7 @@ layout: default
 title: Erzeugung des Ionenstrahls
 ---
 
-# Erzeugung des Ionenstrahls 🔥(index)
+# Erzeugung des Ionenstrahls 🔥
 
 ## Wie entsteht der Ionenstrahl?
 
