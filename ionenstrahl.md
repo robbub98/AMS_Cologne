@@ -54,4 +54,4 @@ passiert, erfährst du im nächsten Abschnitt!
 
 > ⏭️ Weiter zu [Sputtering](sputtering)
 >
-> ⏮️ Zurück zur [Startseite](index)
+> 🏠 Zurück zur [Startseite](index)
