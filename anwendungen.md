@@ -77,16 +77,4 @@ bis zur Medizin.
 
 ---
 
-## Kontakt 📧
-
-Interesse am CologneAMS?
-
-> 📬 **muecher@ikp.uni-koeln.de**
->
-> 📬 **mschiffer@ikp.uni-koeln.de**
->
-> 🔗 [cologneams.uni-koeln.de](https://cologneams.uni-koeln.de/)
-
----
-
 > 🏠 Zurück zur [Startseite](index)
