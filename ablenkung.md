@@ -149,7 +149,6 @@ Deshalb wird es weiter zum [Detektor](detektor) geschickt –
 dort werden die Atome **einzeln gezählt**!
 
 ---
-
+> ➡️ Weiter zum [Detektor](detektor)
+> 
 > 🏠 Zurück zur [Startseite](index)
->
-> > ➡️ Weiter zum [Detektor](detektor)
