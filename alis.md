@@ -106,7 +106,7 @@ welche ALIS benötigen:
 <div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; margin: 1em 0;">
   <p><strong>📄 Poster: ALIS – Anion Laser Isobar Separator</strong></p>
   <iframe 
-    src="assets/documents/poster_Markus.pdf#zoom=75" 
+    src="assets/documents/poster_Markus.pdf#zoom=25" 
     width="100%" 
     height="600px" 
     style="border: none; border-radius: 4px;">
