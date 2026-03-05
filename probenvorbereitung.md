@@ -8,8 +8,8 @@ title: Probenvorbereitung
 ## Vom Probenmaterial zur Ionenquelle
 
 Bevor eine Probe im AMS gemessen werden kann, muss sie aufwändig 
-vorbereitet werden – oft dauert das **mehrere Wochen**. Je nach 
-gesuchtem Isotop unterscheidet sich die Aufbereitung erheblich.
+vorbereitet werden. Je nach gesuchtem Isotop unterscheidet sich
+die Aufbereitung erheblich.
 
 | Gesuchtes Isotop | Ausgangsmaterial | Endprodukt |
 |-----------------|-----------------|------------|
@@ -17,7 +17,7 @@ gesuchtem Isotop unterscheidet sich die Aufbereitung erheblich.
 | ²⁶Al | Gestein | Aluminiumoxid (Al₂O₃) |
 | ¹⁴C | Organisches Material | Graphit oder CO₂ |
 
-> 💡 Das AMS sucht nach Atomen, die **extrem selten** sind – 
+> 💡 Das AMS sucht nach Atomen, die **selten** sind – 
 > z. B. ein ¹⁰Be-Atom unter einer **Billion** anderer Atome. 
 > Die Probe muss daher **absolut rein** sein.
 
