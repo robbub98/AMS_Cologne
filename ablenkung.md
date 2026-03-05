@@ -46,10 +46,9 @@ title: Ablenkung durch Magnetfelder
 ---
 
 ## Warum brauchen wir Magnete? 🤔
-
-Stell dir vor, du wirfst einen **Tischtennisball** und eine **Bowlingkugel**
-in einer Kurve – die Bowlingkugel fliegt geradeaus weiter, während der
-Tischtennisball stärker abgelenkt wird.
+Stell dir vor, du rollst verschieden schwere Bälle über eine
+schiefe Rampe: Der leichte Tischtennisball rollt stark zur Seite,
+der schwere Medizinball rollt fast geradeaus weiter.
 
 Genau so funktioniert ein **Ablenkmagnet**: Leichte Teilchen werden
 stärker abgelenkt als schwere. So können wir die verschiedenen
