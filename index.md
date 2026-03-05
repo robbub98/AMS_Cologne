@@ -8,7 +8,7 @@ title: Cologne AMS
 Das **CologneAMS** ist ein **6 MV Tandem-Beschleuniger-Massenspektrometer** 
 am Institut für Kernphysik der **Universität zu Köln**.
 
-Es wird genutzt, um extrem seltene kosmogene Nuklide zu messen 
+Es wird genutzt, um seltene kosmogene Nuklide zu messen 
 und kommt dabei in [vielen verschiedenen Fachbereichen](anwendungen) 
 zum Einsatz – von der Geologie bis zur Medizin.
 
