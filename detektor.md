@@ -8,7 +8,7 @@ title: Detektor & Datenerfassung
 <div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; margin: 1em 0;">
   <p><strong>📄 Poster: Detektor & Datenerfassung</strong></p>
   <iframe 
-    src="assets/documents/Poster_Elisa_de.pdf#zoom=50" 
+    src="assets/documents/Poster_Elisa_de.pdf#zoom=25" 
     width="100%" 
     height="600px" 
     style="border: none; border-radius: 4px;">
