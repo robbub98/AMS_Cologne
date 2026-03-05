@@ -144,7 +144,7 @@ Die häufigen Isotope **¹²C** und **¹³C** werden in sogenannten
 ### Und was ist mit ¹⁴C? 🧐
 
 ¹⁴C ist so selten, dass es als Strom **nicht messbar** wäre.
-Deshalb wird es weiter zum [Detektor](detektor) geschickt –
+Deshalb wird es weiter zum Detektor geschickt –
 dort werden die Atome **einzeln gezählt**!
 
 ---
