@@ -32,7 +32,6 @@ Jede Probe durchläuft dabei fünf Hauptschritte:
 ### 1. Ionenquelle 🔋
 Das AMS verfügt über **drei Ionenquellen**:
 - **Zwei konventionelle Quellen** – erzeugen negative Ionen 
-  durch [Sputtering](sputtering)
 - **[ALIS](alis)** – eine spezielle Quelle, die mit Lasern 
   und Gas bereits vor der Beschleunigung störende Isobare 
   herausfiltert
