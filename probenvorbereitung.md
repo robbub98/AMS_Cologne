@@ -66,6 +66,6 @@ extrahiert.
 
 ---
 
-> ⏭️ Weiter zur [Erzeugung des Ionenstrahls](ionenstrahl)
+> ⏭️ Weiter zur [Tandembeschleuniger](beschleuniger)
 >
 > 🏠 Zurück zur [Startseite](index)
