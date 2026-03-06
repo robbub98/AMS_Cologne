@@ -64,6 +64,6 @@ Das hat einen cleveren Nebeneffekt:
 
 ---
 
-> ⏭️ Weiter zu [Tandem-Beschleuniger](beschleuniger)
+> ⏭️ Weiter zu [Probenvorbereitung](probenvorbereitung)
 
 > 🏠 Zurück zur [Startseite](index)
