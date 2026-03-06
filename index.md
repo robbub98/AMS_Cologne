@@ -28,10 +28,10 @@ Die wichtigsten gemessenen Nuklide:
 
 | Nr. | Station | Beschreibung |
 |-----|---------|-------------|
-| 1 | [Probenvorbereitung](probenvorbereitung) | Vom Probenmaterial in die Maschine |
-| 2 | [Erzeugung des Ionenstrahls](ionenstrahl) | Wie entsteht der Ionenstrahl? |
-| 2a | [ALIS](alis) | Isobar-Trennung mit Laser & Gas |
-| 3 | [Sputtering](sputtering) | Was passiert an der Probe? |
+| 1 | [Erzeugung des Ionenstrahls](ionenstrahl) | Wie entsteht der Ionenstrahl? |
+| 1a | [ALIS](alis) | Isobar-Trennung mit Laser & Gas |
+| 2 | [Sputtering](sputtering) | Was passiert an der Probe? |
+| 3 | [Probenvorbereitung](probenvorbereitung) | Vom Probenmaterial in die Maschine |
 | 4 | [Tandem-Beschleuniger](beschleuniger) | Vom Molekül zum einzelnen Atom |
 | 5 | [Ablenkung durch Magnetfelder](ablenkung) | Wie Magnete die Isotope sortieren |
 | 6 | [Detektor & Datenerfassung](detektor) | Das einzelne Atom nachweisen |
